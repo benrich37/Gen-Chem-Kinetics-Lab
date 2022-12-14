@@ -21,5 +21,7 @@ This jupyter notebook contains all the code which generates the data for post-la
 - Instructions on how to run the code
 - A cell containing only numerical variable assignments with explanatory in-line comments.
 - A cell containing the code to perform the simulation and plot the generated data
+### ManimAnimation.py
+The script for the animation giving visual explanation on integrators
 
 
